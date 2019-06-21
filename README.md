@@ -1,4 +1,4 @@
-# DAOstack-meetp-up-resources
+# DAOstack-meetp-up-resources kit
 
 ## **Slide decks**
 
